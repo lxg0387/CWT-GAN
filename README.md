@@ -24,7 +24,7 @@
 * Previous checkpoint:  **dataset**_params_latest.pt
 * If the memory of gpu is **not sufficient**, set `--light` to True
 * Trained models(set --light to True):
-Our previous checkpoint on summer2winter can be downloaded from https://pan.baidu.com/s/1YptASRfb8lLyS52iqz0y9Q (password:mvwu)
+Our previous checkpoint on summer2winter can be downloaded from https://pan.baidu.com/s/1YptASRfb8lLyS52iqz0y9Q  (password: mvwu)
 
 ### Test
 ```
